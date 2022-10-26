@@ -34,8 +34,8 @@
     display: block;
 }
 
-#navegacón li a:hover{
-    background-color:aquamarine;
+#navegación li a:hover{
+    background-color:#47B5FF;
 }
 
 #navegación li ul{
